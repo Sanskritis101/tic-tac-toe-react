@@ -1,8 +1,9 @@
 # tic-tac-toe-react
 The classic tic-tac-toe game built as a React app with a twist: the ability to revisit previous moves. 
 
-To see the project in action, download node.js from [official website](https://nodejs.org)
-Follow basic setup instructions in terminal.
+To see the project in action, download node.js from [official website](https://nodejs.org).
+
+Execute basic react environment setup instructions in terminal.
 
 Once done, change directory to the path of this main file and execute following:
 
